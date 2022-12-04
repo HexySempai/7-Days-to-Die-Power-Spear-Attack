@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<HSSpearPowerAttack>
+	<ModInfo>
+		<Name value="HS Spear Power Attack" />
+		<Description value="Changes Spears Power attack from thrown to strong thrust." />
+		<Author value="Hexy Sempai" />
+		<Version value="A20" />
+		<Website value="" />
+	</ModInfo>
+</HSSpearPowerAttack>
